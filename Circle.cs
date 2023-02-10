@@ -24,11 +24,11 @@ namespace PROG8170Assign2
         }
         public void SetRadius(int pRadius)
         {
-            if (pRadius>0)
+            if (pRadius > 0)
             {
                 radius = pRadius;
             }
-            
+
         }
         public double GetCircumference()
         {
